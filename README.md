@@ -39,19 +39,19 @@ A **dynamic weighting schedule (λ)** balances accuracy and uncertainty during t
 
 ---
 
-## 📊 Datasets Used
-We evaluate US-Loss on **two medical image segmentation datasets**:
+## 🗂 Datasets Used
+
+We evaluate US-Loss on two medical image segmentation datasets:
 
 ### 1️⃣ ISIC 2018 Skin Lesion Dataset
-- Task: Melanoma skin lesion segmentation  
-- Reference:  
-  Codella et al., “Skin lesion analysis toward melanoma detection 2018…,” arXiv:1902.03368, 2019.
+- **Task:** Melanoma skin lesion segmentation  
+- **Dataset:** https://challenge.isic-archive.com/data/  
+- **Reference Paper:** https://arxiv.org/abs/1902.03368
 
 ### 2️⃣ BUS Breast Ultrasound Dataset
-- Task: Breast tumor segmentation  
-- Reference:  
-  Al-Dhabyani et al., “Dataset of breast ultrasound images,” Data in Brief, 2020.
+- **Task:** Breast tumor segmentation  
+- **Dataset:** https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset  
+- **Reference Paper:** https://doi.org/10.1016/j.dib.2019.104863
 
----
 
 ## 📦 Repository Structure (to be added)
